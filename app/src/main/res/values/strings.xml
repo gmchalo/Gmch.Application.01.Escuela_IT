@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gmch.Application.01.Escuela_IT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje1">Msg1-GMCH</string>
+    <string name="title_activity_actividad2java">Actividad2title</string>
+    <string name="Boton1">Ir a nueva actividad</string>
+    <string name="Boton2">Abrir mensaje</string>
+    <string name="Boton3">Enviar nombre</string>
+
+</resources>
