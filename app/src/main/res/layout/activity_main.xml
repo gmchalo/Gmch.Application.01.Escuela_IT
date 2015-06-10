@@ -36,7 +36,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Escribe tu nombre por favor aquí"
+        android:hint="Escribe tu nombre a transferir  aquí"
         android:id="@+id/texto"
 
         />
