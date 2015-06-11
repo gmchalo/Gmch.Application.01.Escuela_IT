@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "applications.mobile.trainning.superglobalacademy.gmchapplication01escuela_it.Actividad2java"/>
+      <point      
+        x = "1504"      
+        y = "372"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "applications.mobile.trainning.superglobalacademy.gmchapplication01escuela_it.Actividad2java"/>
+      <point      
+        x = "2772"      
+        y = "372"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "applications.mobile.trainning.superglobalacademy.gmchapplication01escuela_it.MainActivity"/>
+      <point      
+        x = "316"      
+        y = "224"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "applications.mobile.trainning.superglobalacademy.gmchapplication01escuela_it.MainActivity"/>
+      <point      
+        x = "1584"      
+        y = "224"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

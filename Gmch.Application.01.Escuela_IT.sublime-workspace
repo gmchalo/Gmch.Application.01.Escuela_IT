@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pa",
+				"parrafo"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"est",
+				"está"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"m",
+				"micapa"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"var",
+				"var1"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 175.0,
+		"history":
+		[
+			"dir",
+			"cd..",
+			"exe",
+			"run",
+			"index.html",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.settings().get('font_face')",
+			"word}",
+			"wordwrap",
+			"view.options().get('wordWrap')",
+			"view.set('wordWrap', False)",
+			"view.options().set('wordWrap', False)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Diego/Git/EscuelaITProyecto1/html/emmet.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/html/jquery.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/html/html5_taller1.html",
+		"/C/Users/Diego/AndroidStudioProjects/.git/HEAD",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/html/figura.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/html/index.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/index.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/js/jquery.js",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/jquery.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/jquery.js",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/css/estilos.css",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/emmet.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/figura.css",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/figura.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/jquery2.html",
+		"/C/Users/Diego/Git/EscuelaITProyecto1/jquery-migrate-1.2.1.min.js",
+		"/H/USB_LCS/Transferencia_ de_ Archivos_Joomla/COMPILATION/Word_CSS/Taller_Responsive_ Web_ Design_ con_ HTML5_by_Mirchan.document.word.notes",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Diego/Desktop/Instaladores Joomla 3X/j30-Modules/modulo_phproberto/mod_phproberto_ghcard-master/extensions/libraries/phproberto/module/module.php",
+		"/C/Users/Diego/Desktop/Instaladores Joomla 3X/j30-Modules/modulo_phproberto/mod_phproberto_ghcard-master/extensions/libraries/phproberto/library.php",
+		"/C/Users/Diego/Desktop/Instaladores Joomla 3X/j30-Modules/modulo_phproberto/mod_phproberto_ghcard-master/extensions/modules/site/card/tmpl/medium.php",
+		"/C/Users/Diego/Desktop/Instaladores Joomla 3X/j30-Modules/modulo_phproberto/mod_phproberto_ghcard-master/joomla-gulp-extensions/modules/frontend/card.js",
+		"/C/Users/Diego/Desktop/Instaladores Joomla 3X/j30-Modules/modulo_phproberto/mod_phproberto_ghcard-master/pkg_github.xml",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/README.md",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gmch.Application.01.Escuela_IT.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control Messages"
+			],
+			[
+				"emme",
+				"extensions\\modules\\site\\card\\tmpl\\medium.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
